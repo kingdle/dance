@@ -26,8 +26,9 @@ class CreateUsersTable extends Migration
 	        $table->string('weapp_session_key')->nullable()->comment('微信session_key');
 	        $table->string('nickname')->nullable()->comment('昵称');
 	        $table->string('country')->nullable()->comment('国家');
-	        $table->string('language')->nullable()->comment('语言');
+	        $table->string('province')->nullable()->comment('省份');
 	        $table->string('city')->nullable()->comment('所在城市');
+	        $table->string('language')->nullable()->comment('语言');
 	        $table->json('location')->nullable()->comment('当前地理信息');
 
             // 拓展资料

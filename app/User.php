@@ -73,7 +73,7 @@ class User extends Authenticatable
         'name', 'username', 'energy', 'email', 'password', 'avatar', 'realname', 'phone',
         'bio', 'extends', 'settings', 'level', 'is_admin', 'cache', 'gender',
         'last_active_at', 'banned_at', 'activated_at',
-	    'weapp_openid', 'weapp_session_key', 'nickname', 'country', 'language', 'city', 'location',
+	    'weapp_openid', 'weapp_session_key', 'nickname', 'country', 'province', 'city', 'location','language'
     ];
 
     const CACHE_FIELDS = [

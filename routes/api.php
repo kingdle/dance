@@ -54,3 +54,7 @@ Route::resources([
     'notifications' => 'NotificationController',
 ]);
 
+//miniprogram
+Route::group(['prefix' => '/api/v1'], function () {
+	Route::post('/weappLogin', 'AuthorizationsController@weappLogin');
+});
