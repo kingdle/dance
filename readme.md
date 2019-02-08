@@ -1,11 +1,11 @@
 
 <img align="right" width="80" src="https://user-images.githubusercontent.com/1472352/48118952-d4f4db80-e2a8-11e8-8d0a-37b24c071b12.png"/>
 
-<h1 align="left"><a href="https://yike.io">Yike.io</a></h1>
+<h1 align="left"><a href="https://yike.io">基于安神的一刻API后端</a></h1>
 
 [![Build Status](https://travis-ci.org/overtrue/api.yike.io.svg?branch=master)](https://travis-ci.org/overtrue/api.yike.io)
 
-此项目为 https://yike.io 的后端 API，基于 Laravel 5 开发。
+此项目为 非凡舞韵 的后端 API，基于 Laravel 5 开发。
 
 > 🏵前端源码：https://github.com/overtrue/yike.io
 
