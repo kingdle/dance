@@ -54,5 +54,3 @@ Route::resources([
     'notifications' => 'NotificationController',
 ]);
 
-// github webhooks
-Route::post('/deploy','DeploymentController@deploy');
