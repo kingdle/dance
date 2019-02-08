@@ -20,7 +20,7 @@
         }
 
         .full-height {
-            height: 105vh;
+            height: 102vh;
         }
 
         .flex-center {
@@ -103,7 +103,7 @@
         </div>
         <div class="footer">
             <p>© 2019-2022</p>
-            <p>备案号：鲁ICP备11028443号</p>
+            <p>备案号：鲁ICP备11028443号-1</p>
         </div>
 
     </div>
